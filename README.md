@@ -1,6 +1,8 @@
 aoapc-bac2nd
 ============
 
+之后我的个人博客会有全部习题解析🎈
+
 Source codes for book &lt;&lt;&lt;BeginningAlgorithmContests>> Second edition
 
 Where to buy the book?
