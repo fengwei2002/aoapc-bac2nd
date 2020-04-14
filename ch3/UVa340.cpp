@@ -22,7 +22,7 @@ int main() {
           if(a[i] == d) c1++;
           if(b[i] == d) c2++;
         }
-        if(c1 < c2) B += c1; else B += c2;
+        if(c1 < c2) B += c1; else B += c2;//如果测试序列的
       }
       printf("    (%d,%d)\n", A, B-A);
     }
